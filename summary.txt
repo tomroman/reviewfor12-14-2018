@@ -1,0 +1,24 @@
+Summary
+
+We went over the postman program which allows us to test our api keys to see if 
+they work and how quickly they pass, without needing to complete
+the rest of the front end. After an error in the class we went over 
+closing the git bash so as to not cause errors in the console of the 
+terminal. After solving the errors we moved to Express, which is an npm package 
+not included in Nodejs. 
+
+While we were introduced to Express we learned about how to code our routes so that they fetch 
+what the user wantes to to be displayed on screen. If we are to use a get route we need to make sure that 
+the route includes a response so that the server can give the user what they were 
+searching for. Through the Starwars example we then examined the post route. This route 
+enables the user to change or add things to the back and and it requires (req) as part of
+the arguments of the function. Through the hot restaurant example we were able to see how 
+routes are fundamental to the modern app experience, as routes encourage and enable
+interactivity between the user and the app.
+
+This day included more lecture than is usual for this course. Having never seen express 
+before it looks as though we were more encouraged to understand the underlying principles 
+of the how the express server works. Almost all of the starwars activities and the hot 
+restaurant activity required very little coding to be done. As the servers were already 
+created and routed. Poornima fielded questions most of the day with reguard routes and 
+and functionality. 
